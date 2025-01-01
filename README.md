@@ -7,8 +7,8 @@ A simple Python script that automatically increments a number in a text file and
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/daily-number-incrementer.git
-cd daily-number-incrementer
+git clone https://github.com/Shogun89/fancy_job
+cd fancy_job
 ```
 
 2. Run the script:
