@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "cs_proj",
+			"path": ".."
+		},
+		{
+			"name": "fancy_job",
+			"path": "../../../fancy_job"
+		}
+	],
+	"settings": {}
+}
